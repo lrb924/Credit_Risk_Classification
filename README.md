@@ -50,7 +50,6 @@ Logistic Regression Model with Resampled Training Data:
   * High-risk loan (1): 84%
 * Recall: 99%
 
-### Results
+The precision score for predicting healthy loans (0) is the same for both Model 1 and 2, and there is only a 1% difference in precision for predicting the high-risk loans (1). However, there is a higher accuracy score with Model 2.
 
-* The precision score for predicting healthy loans (0) is the same for both Model 1 and 2, and there is only a 1% difference in precision for predicting the high-risk loans (1). However, there is a higher accuracy score with Model 2.
-* The purpose of this analysis is to identify/predict the high-risk (1) loans, and both models had almost similar precision scores when predicing whether or not a loan was high-risk.
+The purpose of this analysis is to identify/predict the high-risk (1) loans, and both models had almost similar precision scores when predicing whether or not a loan was high-risk.
